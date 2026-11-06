@@ -1,69 +1,186 @@
-# 💫 About Me:
+# Hi, I'm Dipu 👋
 
-<details>
-<summary>👋 Click to expand</summary>
+### AI & ML Engineer | Software Developer | Open-Source Enthusiast
 
-I am **Dipendra Kumar Senapati**, currently pursuing B.tech CS in AI & ML (2nd Semester). I love Web Development and am learning and trying to contribute.
+I'm a B.Tech Computer Science student specializing in **Artificial Intelligence and Machine Learning** at Newton School of Technology, ADY Patil University, Pune, India.
 
-I have learned **HTML, CSS, JavaScript, GoLang, Python**.  
-I am currently learning **ReactJS, Kotlin** and more languages.
+I'm passionate about building intelligent systems, developing practical software solutions, exploring open-source technologies, and understanding how things work under the hood.
 
-</details>
+I enjoy working at the intersection of **AI/ML, software engineering, computer vision, automation, and robotics**. My approach to engineering is to learn by building, experiment with new technologies, and turn ideas into functional products.
 
 ---
 
-# 💻 Tech Stack:
+## 🚀 About Me
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+- 🎓 Pursuing B.Tech in Computer Science (AI & ML).
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and intelligent agents.
+- 💻 Building software projects using Python, JavaScript, and modern development tools.
+- 👁️ Exploring Computer Vision, OpenCV, and vision-based AI systems.
+- 🦾 Interested in robotics, autonomous systems, and ROS 2.
+- 🌐 Exploring backend engineering, APIs, databases, and full-stack development.
+- 🔓 Interested in contributing to open-source projects and collaborating with developers.
+- 🧠 Believe in continuous learning, experimentation, and building things from scratch.
 
----
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=dipu01-code&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dipu01-code&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipu01-code&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-![Dipendra's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dipu01-code&theme=github-dark&hide_border=true&custom_title=Contribution%20Activity)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=dipu01-code&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=dipu01-code&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**My philosophy:** Don't just use technology. Understand it, experiment with it, and build something meaningful with it.
 
 ---
 
-### 🎯 Current Goals
+## 🛠️ Tech Stack & Tools
 
-- [ ] Learn ReactJS deeply
-- [ ] Learn Kotlin
-- [ ] Contribute to open source
-- [ ] Build a Web Development project
-- [ ] Explore AI & ML projects
+### Programming Languages
+- Python
+- JavaScript
+- C++
+- SQL
+
+### AI / ML & Computer Vision
+- Machine Learning
+- Artificial Intelligence
+- OpenCV
+- Computer Vision
+- Retrieval-Augmented Generation (RAG)
+- AI Agents and Automation
+
+### Backend & Web Development
+- Node.js
+- Express.js
+- FastAPI
+- React
+- REST APIs
+- Socket.IO
+
+### Databases
+- PostgreSQL
+- MongoDB
+- SQLite
+- Supabase
+
+### Developer Tools & Infrastructure
+- Git & GitHub
+- Docker
+- Linux
+- macOS
+- AWS
+- VS Code
+- Postman
+
+### Exploring
+- ROS 2
+- Autonomous Robotics
+- Deep Learning
+- LLM Architecture
+- Agentic AI Systems
 
 ---
 
-<details>
-<summary>🤝 Connect with me</summary>
+## 🔥 Featured Projects
 
-<p align="left">
-</p>
+### 1. ORION — Personal AI Assistant
+An intelligent personal assistant inspired by futuristic AI systems.
 
-</details>
+- Exploring a hybrid architecture combining locally developed models with interchangeable model interfaces.
+- Building a modular tool execution system.
+- Experimenting with voice interaction and intelligent automation.
+- Focused on creating an extensible AI assistant.
+
+**Technologies:** Python, Node.js, React, Electron, Tailwind CSS.
+
+### 2. VisionPilot — Agentic Computer Vision
+An AI-powered computer vision project focused on making visual systems more intelligent and actionable.
+
+- Exploring OpenCV-based image and video analysis.
+- Building an agentic workflow for interpreting visual information.
+- Working on decision-making and auditable action execution.
+- Exploring cloud deployment using AWS and Docker.
+
+**Technologies:** Python, OpenCV, Streamlit, Docker, AWS.
+
+### 3. Alpha Intelligence Engine
+A research-oriented RAG platform for quantitative finance knowledge.
+
+- Developing a document ingestion and retrieval pipeline.
+- Exploring knowledge extraction and semantic search.
+- Building APIs for accessing research insights.
+- Experimenting with structured financial knowledge.
+
+**Technologies:** Python, FastAPI, PostgreSQL, RAG.
+
+### 4. TerPlayer
+A terminal-based music player built for the command line.
+
+- Building an interactive terminal user experience.
+- Exploring Node.js CLI development.
+- Experimenting with themes and terminal interfaces.
+
+**Technologies:** Node.js, JavaScript, React Ink.
+
+### 5. ChargeMate
+An idea focused on peer-to-peer EV charging infrastructure.
+
+- Exploring a platform connecting EV owners with home charging hosts.
+- Focused on accessible charging infrastructure and host monetization.
+- Exploring location-based services and modern application architecture.
+
+**Technologies:** React, Supabase, and modern web technologies.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=dipu01-code&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🌱 Currently Learning
+
+- Advanced Data Structures and Algorithms.
+- Machine Learning and Deep Learning.
+- Backend architecture and scalable systems.
+- AI agents, LLMs, and RAG architectures.
+- Computer Vision and OpenCV.
+- Robotics and ROS 2.
+- Open-source development and collaborative engineering.
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🎯 My Long-Term Goals
+
+- Build production-ready AI/ML products.
+- Develop intelligent agents and autonomous systems.
+- Contribute consistently to impactful open-source projects.
+- Explore robotics, drones, and humanoid systems.
+- Develop a strong foundation in systems engineering.
+- Become an engineer capable of researching, designing, and building complete intelligent systems.
+
+---
+
+## 🤝 Open Source & Collaboration
+
+I'm interested in collaborating with developers, researchers, and open-source communities.
+
+I'm particularly interested in projects involving:
+
+- Artificial Intelligence and Machine Learning.
+- Developer tools and automation.
+- Computer Vision.
+- Robotics and autonomous systems.
+- Backend and infrastructure engineering.
+
+If you're building something interesting in these areas, I'd be happy to explore opportunities to collaborate.
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipu01-code&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipu01-code&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Connect With Me
+
+- **GitHub:** [@dipu01-code](https://github.com/dipu01-code)
+- **LinkedIn:** Add your LinkedIn profile URL here.
+- **Portfolio:** Add your portfolio URL here.
+- **Email:** Add your professional email here.
+
+---
+
+### 💡 Building. Learning. Experimenting. Contributing.
+
+*I am not just interested in learning what technology can do. I want to understand how it works and build what comes next.*
