@@ -1,4 +1,21 @@
-# Hi, I'm Dipu 👋
+<div align="center">
+
+<img src="assets/metro.svg" alt="Commit Metro: every line is a language, every stop a project" width="100%">
+
+*Every line is a language I write; every stop is one of my projects.*
+
+<img src="assets/board.svg" alt="dipu01-code: featured projects and languages" width="100%">
+
+**Stations:** [Orion](https://github.com/dipu01-code/Orion) · [VisionPilot](https://github.com/dipu01-code/VisionPilot) · [BuildX](https://github.com/dipu01-code/BuildX) · [TerPlayer](https://github.com/dipu01-code/TerPlayer)
+
+### 🚇 Timetable
+
+<img src="https://streak-stats.demolab.com?user=dipu01-code&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" width="100%">
+
+</div>
+
+<details>
+<summary><b>🧭 About me, tech stack and projects</b></summary>
 
 ### AI & ML Engineer | Software Developer | Open-Source Enthusiast
 
@@ -7,8 +24,6 @@ I'm a B.Tech Computer Science student specializing in **Artificial Intelligence 
 I'm passionate about building intelligent systems, developing practical software solutions, exploring open-source technologies, and understanding how things work under the hood.
 
 I enjoy working at the intersection of **AI/ML, software engineering, computer vision, automation, and robotics**. My approach to engineering is to learn by building, experiment with new technologies, and turn ideas into functional products.
-
----
 
 ## 🚀 About Me
 
@@ -162,25 +177,14 @@ I'm particularly interested in projects involving:
 
 If you're building something interesting in these areas, I'd be happy to explore opportunities to collaborate.
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipu01-code&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dipu01-code&layout=compact&theme=tokyonight&hide_border=true)
+</details>
 
 ---
 
-## 📫 Connect With Me
+<div align="center">
 
-- **GitHub:** [@dipu01-code](https://github.com/dipu01-code)
-- **LinkedIn:** Add your LinkedIn profile URL here.
-- **Portfolio:** Add your portfolio URL here.
-- **Email:** Add your professional email here.
+[GitHub](https://github.com/dipu01-code)
 
----
+*Commit Metro · every line is a language, every stop a project*
 
-### 💡 Building. Learning. Experimenting. Contributing.
-
-*I am not just interested in learning what technology can do. I want to understand how it works and build what comes next.*
+</div>

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="480" viewBox="0 0 900 480" role="img" aria-labelledby="t">
+<title id="t">Commit Metro: every line is a language, every stop a project</title>
+<style>
+.ln{fill:none;stroke-width:7;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1;stroke-dashoffset:1;animation:draw 1.8s ease-out forwards}
+.st{opacity:0;animation:fade .5s ease-out forwards}
+.pulse{transform-origin:450px 270px;animation:pulse 2.4s ease-out infinite}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes fade{to{opacity:1}}
+@keyframes pulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(2.2);opacity:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;stroke-dashoffset:0!important;opacity:1!important}}
+</style>
+<rect width="900" height="480" rx="12" fill="#0d1117"/>
+<text x="24" y="30" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="2" fill="#3fb950">COMMIT METRO</text>
+<text x="24" y="52" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e6edf3">Every line is a language, every stop a project</text>
+<g transform="translate(0,60)">
+<path id="l0" class="ln" d="M120,70 H310 L450,210 L590,70 H880" stroke="#f1e05a" pathLength="1" style="animation-delay:0.0s"/>
+<g class="st" style="animation-delay:0.0s"><rect x="20" y="60" width="92" height="20" rx="10" fill="#f1e05a"/><text x="66" y="74" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" fill="#0d1117">JAVASCRIPT</text></g>
+<g class="st" style="animation-delay:1.20s"><circle cx="160" cy="70" r="5.5" fill="#0d1117" stroke="#e6edf3" stroke-width="2.5"/><text x="160" y="58" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#e6edf3">BuildX</text></g>
+<g class="st" style="animation-delay:1.32s"><circle cx="225" cy="70" r="5.5" fill="#0d1117" stroke="#e6edf3" stroke-width="2.5"/><text x="225" y="58" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#e6edf3">TerPlayer</text></g>
+<g class="st" style="animation-delay:1.44s"><circle cx="290" cy="70" r="5.5" fill="#0d1117" stroke="#e6edf3" stroke-width="2.5"/><text x="290" y="58" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#e6edf3">News-AI</text></g>
+<g class="st" style="animation-delay:1.56s"><circle cx="640" cy="70" r="5.5" fill="#0d1117" stroke="#e6edf3" stroke-width="2.5"/><text x="640" y="58" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#e6edf3">messanger-app</text></g>
+<g class="st" style="animation-delay:1.68s"><circle cx="730" cy="70" r="5.5" fill="#0d1117" stroke="#e6edf3" stroke-width="2.5"/><text x="730" y="58" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#e6edf3">AI_Assisstant</text></g>
+<g class="st" style="animation-delay:1.80s"><circle cx="820" cy="70" r="5.5" fill="#0d1117" stroke="#e6edf3" stroke-width="2.5"/><text x="820" y="58" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#e6edf3">API_tester</text></g>
+<rect x="-9" y="-4" width="18" height="8" rx="4" fill="#e6edf3" stroke="#f1e05a" stroke-width="2" opacity="0"><set attributeName="opacity" to="1" begin="2.0s"/><animateMotion dur="7s" begin="2.0s" repeatCount="indefinite" rotate="auto"><mpath href="#l0"/></animateMotion></rect>
+<path id="l1" class="ln" d="M120,130 H370 L450,210 L530,130 H880" stroke="#3178c6" pathLength="1" style="animation-delay:0.3s"/>
+<g class="st" style="animation-delay:0.3s"><rect x="20" y="120" width="92" height="20" rx="10" fill="#3178c6"/><text x="66" y="134" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" fill="#0d1117">TYPESCRIPT</text></g>
+<g class="st" style="animation-delay:1.50s"><circle cx="170" cy="130" r="5.5" fill="#0d1117" stroke="#e6edf3" stroke-width="2.5"/><text x="170" y="118" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#e6edf3">DSA_Portal</text></g>
+<g class="st" style="animation-delay:1.62s"><circle cx="255" cy="130" r="5.5" fill="#0d1117" stroke="#e6edf3" stroke-width="2.5"/><text x="255" y="118" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#e6edf3">AgentTrace</text></g>
+<g class="st" style="animation-delay:1.74s"><circle cx="340" cy="130" r="5.5" fill="#0d1117" stroke="#e6edf3" stroke-width="2.5"/><text x="340" y="118" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#e6edf3">TestTrip</text></g>
+<g class="st" style="animation-delay:1.86s"><circle cx="590" cy="130" r="5.5" fill="#0d1117" stroke="#e6edf3" stroke-width="2.5"/><text x="590" y="118" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#e6edf3">Lamborgini</text></g>
+<g class="st" style="animation-delay:1.98s"><circle cx="690" cy="130" r="5.5" fill="#0d1117" stroke="#e6edf3" stroke-width="2.5"/><text x="690" y="118" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#e6edf3">npm_package</text></g>
+<g class="st" style="animation-delay:2.10s"><circle cx="800" cy="130" r="5.5" fill="#0d1117" stroke="#e6edf3" stroke-width="2.5"/><text x="800" y="118" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#e6edf3">Agentic-support</text></g>
+<rect x="-9" y="-4" width="18" height="8" rx="4" fill="#e6edf3" stroke="#3178c6" stroke-width="2" opacity="0"><set attributeName="opacity" to="1" begin="2.3s"/><animateMotion dur="8s" begin="2.3s" repeatCount="indefinite" rotate="auto"><mpath href="#l1"/></animateMotion></rect>
+<path id="l2" class="ln" d="M120,290 H370 L450,210 L530,290 H880" stroke="#4b8bbe" pathLength="1" style="animation-delay:0.6s"/>
+<g class="st" style="animation-delay:0.6s"><rect x="20" y="280" width="92" height="20" rx="10" fill="#4b8bbe"/><text x="66" y="294" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" fill="#0d1117">PYTHON</text></g>
+<g class="st" style="animation-delay:1.80s"><circle cx="170" cy="290" r="5.5" fill="#0d1117" stroke="#e6edf3" stroke-width="2.5"/><text x="170" y="310" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#e6edf3">Orion</text></g>
+<g class="st" style="animation-delay:1.92s"><circle cx="255" cy="290" r="5.5" fill="#0d1117" stroke="#e6edf3" stroke-width="2.5"/><text x="255" y="310" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#e6edf3">VisionPilot</text></g>
+<g class="st" style="animation-delay:2.04s"><circle cx="340" cy="290" r="5.5" fill="#0d1117" stroke="#e6edf3" stroke-width="2.5"/><text x="340" y="310" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#e6edf3">RAG</text></g>
+<g class="st" style="animation-delay:2.16s"><circle cx="620" cy="290" r="5.5" fill="#0d1117" stroke="#e6edf3" stroke-width="2.5"/><text x="620" y="310" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#e6edf3">breed-recognition</text></g>
+<rect x="-9" y="-4" width="18" height="8" rx="4" fill="#e6edf3" stroke="#4b8bbe" stroke-width="2" opacity="0"><set attributeName="opacity" to="1" begin="2.6s"/><animateMotion dur="9s" begin="2.6s" repeatCount="indefinite" rotate="auto"><mpath href="#l2"/></animateMotion></rect>
+<path id="l3" class="ln" d="M120,350 H310 L450,210 L590,350 H880" stroke="#a78bfa" pathLength="1" style="animation-delay:0.8999999999999999s"/>
+<g class="st" style="animation-delay:0.8999999999999999s"><rect x="20" y="340" width="92" height="20" rx="10" fill="#a78bfa"/><text x="66" y="354" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" fill="#0d1117">HTML/CSS</text></g>
+<g class="st" style="animation-delay:2.10s"><circle cx="170" cy="350" r="5.5" fill="#0d1117" stroke="#e6edf3" stroke-width="2.5"/><text x="170" y="370" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#e6edf3">AI-CHAT-BOT</text></g>
+<g class="st" style="animation-delay:2.22s"><circle cx="270" cy="350" r="5.5" fill="#0d1117" stroke="#e6edf3" stroke-width="2.5"/><text x="270" y="370" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#e6edf3">Public-API</text></g>
+<g class="st" style="animation-delay:2.34s"><circle cx="660" cy="350" r="5.5" fill="#0d1117" stroke="#e6edf3" stroke-width="2.5"/><text x="660" y="370" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#e6edf3">Dinosaurs-and-Fossils</text></g>
+<g class="st" style="animation-delay:2.46s"><circle cx="800" cy="350" r="5.5" fill="#0d1117" stroke="#e6edf3" stroke-width="2.5"/><text x="800" y="370" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9.5" fill="#e6edf3">Snw-rama_batch</text></g>
+<rect x="-9" y="-4" width="18" height="8" rx="4" fill="#e6edf3" stroke="#a78bfa" stroke-width="2" opacity="0"><set attributeName="opacity" to="1" begin="2.9s"/><animateMotion dur="10s" begin="2.9s" repeatCount="indefinite" rotate="auto"><mpath href="#l3"/></animateMotion></rect>
+<circle class="pulse" cx="450" cy="210" r="26" fill="none" stroke="#e6edf3" stroke-width="2"/>
+<circle cx="450" cy="210" r="26" fill="#0d1117" stroke="#e6edf3" stroke-width="3"/>
+<text x="450" y="216" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" font-weight="700" fill="#e6edf3">&lt;/&gt;</text>
+<rect x="408" y="243" width="84" height="18" rx="9" fill="#e6edf3"/>
+<text x="450" y="256" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" fill="#0d1117">dipu01-code</text>
+</g></svg>
