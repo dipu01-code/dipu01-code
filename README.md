@@ -8,9 +8,7 @@
 
 **Moons:** [Orion](https://github.com/dipu01-code/Orion) · [VisionPilot](https://github.com/dipu01-code/VisionPilot) · [BuildX](https://github.com/dipu01-code/BuildX) · [TerPlayer](https://github.com/dipu01-code/TerPlayer)
 
-### 🪐 Orbit log
-
-<img src="https://streak-stats.demolab.com?user=dipu01-code&theme=github-dark-blue&hide_border=true&background=0B1024&ring=F5C542&fire=F5C542&currStreakLabel=F5C542" alt="GitHub streak" width="100%">
+<img src="assets/orbit.svg" alt="Orbit log: my last 26 weeks of GitHub contributions" width="100%">
 
 </div>
 
