@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="assets/metro.svg" alt="Commit Metro: every line is a language, every stop a project" width="100%">
+<img src="assets/solar.svg" alt="Solar system: I am the sun, my languages are planets, my repos are moons" width="100%">
 
-*Every line is a language I write; every stop is one of my projects.*
+*I am the sun; my languages are the planets and my projects their moons.*
 
-<img src="assets/board.svg" alt="dipu01-code: featured projects and languages" width="100%">
+<img src="assets/board.svg" alt="dipu01-code: profile, featured projects and languages" width="100%">
 
-**Stations:** [Orion](https://github.com/dipu01-code/Orion) · [VisionPilot](https://github.com/dipu01-code/VisionPilot) · [BuildX](https://github.com/dipu01-code/BuildX) · [TerPlayer](https://github.com/dipu01-code/TerPlayer)
+**Moons:** [Orion](https://github.com/dipu01-code/Orion) · [VisionPilot](https://github.com/dipu01-code/VisionPilot) · [BuildX](https://github.com/dipu01-code/BuildX) · [TerPlayer](https://github.com/dipu01-code/TerPlayer)
 
-### 🚇 Timetable
+### 🪐 Orbit log
 
-<img src="https://streak-stats.demolab.com?user=dipu01-code&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak" width="100%">
+<img src="https://streak-stats.demolab.com?user=dipu01-code&theme=github-dark-blue&hide_border=true&background=0B1024&ring=F5C542&fire=F5C542&currStreakLabel=F5C542" alt="GitHub streak" width="100%">
 
 </div>
 
@@ -185,6 +185,6 @@ If you're building something interesting in these areas, I'd be happy to explore
 
 [GitHub](https://github.com/dipu01-code)
 
-*Commit Metro · every line is a language, every stop a project*
+*Solar System · planets are languages, moons are repos, comets are recent pushes*
 
 </div>
