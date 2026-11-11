@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="assets/solar.svg" alt="Solar system: I am the sun, my languages are planets, my repos are moons" width="100%">
+<img src="assets/solar.svg?v=5" alt="Solar system: I am the sun, my languages are planets, my repos are moons" width="100%">
 
 *I am the sun; my languages are the planets and my projects their moons.*
 
-<img src="assets/board.svg" alt="dipu01-code: profile, featured projects and languages" width="100%">
+<img src="assets/board.svg?v=5" alt="dipu01-code: profile, featured projects and languages" width="100%">
 
 **Moons:** [Orion](https://github.com/dipu01-code/Orion) · [VisionPilot](https://github.com/dipu01-code/VisionPilot) · [BuildX](https://github.com/dipu01-code/BuildX) · [TerPlayer](https://github.com/dipu01-code/TerPlayer)
 
-<img src="assets/orbit.svg" alt="Orbit log: my last 26 weeks of GitHub contributions" width="100%">
+<img src="assets/orbit.svg?v=5" alt="Orbit log: my last 26 weeks of GitHub contributions" width="100%">
 
 </div>
 
